@@ -23,7 +23,7 @@ int _printf(const char *[FORMAT], ...);
 .SH ""
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort #10 students (Valentine Ndunnaego, Moruf Babatunde) ALX Software Engineering students as a project in C-programming.
+A custom _printf() for learning purposes was developed by cohort #10 students (Valentine Ndunnaego, Tunde Moruf) ALX Software Engineering students as a project in C-programming.
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any.
 These arguments are placed using the percentage '%' operator
 
@@ -120,8 +120,8 @@ hexadecimal preceded by \x
 
 .RE
 
-.P
+P
 
 .SH "AUTHORS"
 .SH ""
-Valentine Ndunnaego, Moruf Babatunde
+Valentine Ndunnaego, Tunde Moruf
